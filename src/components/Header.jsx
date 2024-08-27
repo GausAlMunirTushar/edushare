@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 const Header = () => {
   return (
-    <div className="flex justify-between items-center p-4">
+    <div className="container mx-auto py-4 flex justify-between items-center">
         <div>
             <Image src="/logo.svg" alt="logo" width={140} height={40} />
         </div>
