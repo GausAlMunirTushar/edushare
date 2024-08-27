@@ -3,7 +3,7 @@
 
     const Pricing = () => {
     return (
-        <div className="container mx-auto py-10">
+        <div className="container mx-auto py-10 ">
             <div className="grid grid-cols-1 sm:grid-cols-12 py-10">
                 <div className="col-span-12 flex justify-between py-5">
                     <h1 className="text-3xl ">Transform your life through education</h1>
