@@ -3,7 +3,7 @@ import Link from "next/link";
 
 const Footer = () => {
   return (
-    <div className="container mx-auto py-4">
+    <div className="container mx-auto py-10">
       <div className="grid grid-cols-1 md:grid-cols-12 px-4 sm:px-0">
         <div className="col-span-4">
           <Image src="/logo.svg" alt="logo" width={140} height={40} />
